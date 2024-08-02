@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harshvardhan Agrawal</h1>
 <h3 align="center">A passionate fullstack, 3D developer and ML Enthusiast from India</h3>
-
+<image src="https://github.com/user-attachments/assets/771bc045-b06a-4d2a-a373-1911c756dcbe" ></image>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/kakashi_222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/kakashi_222" height="30" width="40" /></a>
